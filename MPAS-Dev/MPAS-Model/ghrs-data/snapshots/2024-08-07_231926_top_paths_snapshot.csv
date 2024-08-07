@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/MPAS-Dev/MPAS-Model,240,145
+/MPAS-Dev/MPAS-Model/tree/master/src,121,24
+/MPAS-Dev/MPAS-Model/releases/tag/v8.2.0,73,45
+/MPAS-Dev/MPAS-Model/releases,69,41
+/MPAS-Dev/MPAS-Model/tree/master/src/core_atmosphere,65,15
+/MPAS-Dev/MPAS-Model/wiki,33,22
+/MPAS-Dev/MPAS-Model/tree/master/src/core_atmosphere/physics,30,5
+/MPAS-Dev/MPAS-Model/blob/master/CMakeLists.txt,24,3
+/MPAS-Dev/MPAS-Model/pulls,23,10
+/MPAS-Dev/MPAS-Model/tree/master/testing_and_setup,23,9
