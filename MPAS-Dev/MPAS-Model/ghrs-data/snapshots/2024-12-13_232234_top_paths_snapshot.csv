@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/MPAS-Dev/MPAS-Model,250,134
+/MPAS-Dev/MPAS-Model/pulls,81,24
+/MPAS-Dev/MPAS-Model/releases,78,50
+/MPAS-Dev/MPAS-Model/issues,47,16
+/MPAS-Dev/MPAS-Model/releases/tag/v8.2.2,45,41
+/MPAS-Dev/MPAS-Model/tree/master/src,36,23
+/MPAS-Dev/MPAS-Model/wiki,34,26
+/MPAS-Dev/MPAS-Model/tree/master/src/core_init_atmosphere,22,13
+/MPAS-Dev/MPAS-Model/pull/1234,22,4
+/MPAS-Dev/MPAS-Model/tree/master/src/core_atmosphere,20,14
