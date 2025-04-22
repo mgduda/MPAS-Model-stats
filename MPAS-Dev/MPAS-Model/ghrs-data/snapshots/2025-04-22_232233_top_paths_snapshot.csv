@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/MPAS-Dev/MPAS-Model,252,142
+/MPAS-Dev/MPAS-Model/pulls,60,19
+/MPAS-Dev/MPAS-Model/releases,52,40
+/MPAS-Dev/MPAS-Model/issues,42,18
+/MPAS-Dev/MPAS-Model/tree/master/src,40,32
+/MPAS-Dev/MPAS-Model/tree/master/src/core_atmosphere,31,20
+/MPAS-Dev/MPAS-Model/releases/tag/v8.2.2,29,21
+/MPAS-Dev/MPAS-Model/blob/master/src/core_atmosphere/Registry.xml,23,12
+/MPAS-Dev/MPAS-Model/pull/1298,23,10
+/MPAS-Dev/MPAS-Model/compare/master...NOAA-GSL:MPAS-Model:gsl/develop,15,3
