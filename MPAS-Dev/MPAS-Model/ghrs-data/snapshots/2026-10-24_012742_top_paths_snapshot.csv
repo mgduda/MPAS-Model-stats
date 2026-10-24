@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/MPAS-Dev/MPAS-Model,121,77
+/MPAS-Dev/MPAS-Model/pulls,69,25
+/MPAS-Dev/MPAS-Model/releases,50,33
+/MPAS-Dev/MPAS-Model/releases/tag/v8.4.2,32,22
+/MPAS-Dev/MPAS-Model/tree/master/src,18,10
+/MPAS-Dev/MPAS-Model/issues,15,11
+/MPAS-Dev/MPAS-Model/pull/1522,14,10
+/MPAS-Dev/MPAS-Model/compare/develop...sael9740:MPAS-Model:gpu_resident_at_allocation,11,1
+/MPAS-Dev/MPAS-Model/pull/1524,10,6
+/MPAS-Dev/MPAS-Model/pull/1438,10,3
